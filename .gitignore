@@ -279,3 +279,4 @@ gekacademy/media/
 .envs/*
 !.envs/.local/
 *.sqlite3
+.dbdata
